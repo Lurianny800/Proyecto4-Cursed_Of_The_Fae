@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 24e3c9e553ffbf84c8fc771322706f09
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1995
+        width: 496
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbcade6fa1f6c44ba957de400fc463e
+      internalID: 1791662929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_1
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1995
+        width: 496
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cf72c6235a1d349818b09d3848fa65
+      internalID: -1907098054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_2
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1995
+        width: 498
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658aca104880b5e4aa780e83849f4055
+      internalID: -1788782576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_3
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1995
+        width: 497
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684eaf8e5a9d90e43bd9cccf15fcb9b5
+      internalID: -1171300355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_4
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 1995
+        width: 498
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeac52bffbde51c44bbd5e17e76e49b4
+      internalID: -629587245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1264
+        width: 496
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900db8b9b93550148b295aaf4096ff90
+      internalID: 222181458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_6
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1264
+        width: 498
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933f443b77a6c134a95d3448831259f4
+      internalID: -1531821176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_7
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1264
+        width: 497
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ac33fbb603cd147a6cfb0d06214bf9
+      internalID: 2112671272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_8
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1264
+        width: 497
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4ba2b4ae53317418e2300e5ac0df1b
+      internalID: -581204855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_9
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1264
+        width: 497
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf8818266be6142bc6cb96ed69a121
+      internalID: 1999664075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 615
+        width: 464
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b85ecbc5aec33e42beb2f955ada8530
+      internalID: -1321462937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 615
+        width: 464
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e7a17bfd367114cbad41ded99fb3b4
+      internalID: -1066328761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_12
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 615
+        width: 465
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6048031eb6e6449b4e92aa8cbe6886
+      internalID: 866534836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_13
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 615
+        width: 465
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39346a85f6c202e4aa34cfab0bf4d358
+      internalID: 223896154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_14
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 615
+        width: 465
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b15f0693e06b2c4b87803a0a1d5b988
+      internalID: -382003907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 16
+        width: 463
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4159dd6d2936a9a488da825177201a8a
+      internalID: -1379029399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_16
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 16
+        width: 465
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269bd3541a945994a933ab9518eb1840
+      internalID: -1878406720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_17
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 16
+        width: 464
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a642e8bbb4059c44db17309ce938fb8f
+      internalID: 1442480022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_18
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 16
+        width: 464
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189907a5a0b4c554c9fc779ba7405aef
+      internalID: -920560287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lyrael_Walking_Cycle_19
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 16
+        width: 463
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220fd88f81faee2479609733c345831c
+      internalID: 1997814901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lyrael_Walking_Cycle_0: 1791662929
+      Lyrael_Walking_Cycle_1: -1907098054
+      Lyrael_Walking_Cycle_10: -1321462937
+      Lyrael_Walking_Cycle_11: -1066328761
+      Lyrael_Walking_Cycle_12: 866534836
+      Lyrael_Walking_Cycle_13: 223896154
+      Lyrael_Walking_Cycle_14: -382003907
+      Lyrael_Walking_Cycle_15: -1379029399
+      Lyrael_Walking_Cycle_16: -1878406720
+      Lyrael_Walking_Cycle_17: 1442480022
+      Lyrael_Walking_Cycle_18: -920560287
+      Lyrael_Walking_Cycle_19: 1997814901
+      Lyrael_Walking_Cycle_2: -1788782576
+      Lyrael_Walking_Cycle_3: -1171300355
+      Lyrael_Walking_Cycle_4: -629587245
+      Lyrael_Walking_Cycle_5: 222181458
+      Lyrael_Walking_Cycle_6: -1531821176
+      Lyrael_Walking_Cycle_7: 2112671272
+      Lyrael_Walking_Cycle_8: -581204855
+      Lyrael_Walking_Cycle_9: 1999664075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

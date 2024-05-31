@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 7d34522d43f2cb341adeffe1bc5d765d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1968
+        width: 424
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b5d97e7624a244692a07444aba7dd1
+      internalID: -564507686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1968
+        width: 425
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c0feae0a11a1049a328b10db77c480
+      internalID: 282399833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_2
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1968
+        width: 423
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f96360e6f0bdd45aa4fed919b16f39
+      internalID: -333042705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_3
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1968
+        width: 423
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c7d6652dc797c40a0321b033961e8a
+      internalID: -1152826263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_4
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 1968
+        width: 423
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c31605fb9bfb6a45ab5c3304d1f3338
+      internalID: -1601160085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1324
+        width: 424
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9c7ebd18be7cc4b836ffbad4cb4167
+      internalID: -22127647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_7
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1324
+        width: 423
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53357a861bf55d4438f37a22543c4471
+      internalID: 1534140642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_8
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1324
+        width: 425
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a679c1dd67ae3143b92e8b9ad8a2cf6
+      internalID: -1205915885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_9
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1324
+        width: 424
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a65e69d18f9ffb4194857e1e9d6a3e6
+      internalID: -264869747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_10
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1324
+        width: 424
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb301e750f2aa2c4baf64c12d88ca940
+      internalID: -1920147844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 678
+        width: 412
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c896dfd9aff23e4fa75bcb379a80b85
+      internalID: -352666890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_12
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 678
+        width: 412
+        height: 534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e123612622679b44ba704ae530e4d42
+      internalID: -1754842062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_13
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 678
+        width: 410
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c38bda986e67b4bb280a677324a19a
+      internalID: -31484744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_14
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 678
+        width: 412
+        height: 534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1ab0dbfb696f34091a0377c52b857a
+      internalID: 990763057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_15
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 678
+        width: 412
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67097de5ceb81a447ab53ed247d9ef2d
+      internalID: 548706077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 412
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37f3e6bbbf2b5341b8da293b98b270c
+      internalID: 1226431380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_17
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 76
+        width: 412
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf642a1d117b9a4cbd7f1e587948389
+      internalID: -868640870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_18
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 76
+        width: 410
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0793f4b1170664a810600c13ad6e3e
+      internalID: -1394838625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_19
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 76
+        width: 412
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f378b33a309ee9848babe5d2974abf3d
+      internalID: 1981426385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThaddeusWalkingCycle_20
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 76
+        width: 412
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc2b66119f5762448257d68745a98b8
+      internalID: 908952222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ThaddeusWalkingCycle_0: -564507686
+      ThaddeusWalkingCycle_1: 282399833
+      ThaddeusWalkingCycle_10: -1920147844
+      ThaddeusWalkingCycle_11: -352666890
+      ThaddeusWalkingCycle_12: -1754842062
+      ThaddeusWalkingCycle_13: -31484744
+      ThaddeusWalkingCycle_14: 990763057
+      ThaddeusWalkingCycle_15: 548706077
+      ThaddeusWalkingCycle_16: 1226431380
+      ThaddeusWalkingCycle_17: -868640870
+      ThaddeusWalkingCycle_18: -1394838625
+      ThaddeusWalkingCycle_19: 1981426385
+      ThaddeusWalkingCycle_2: -333042705
+      ThaddeusWalkingCycle_20: 908952222
+      ThaddeusWalkingCycle_3: -1152826263
+      ThaddeusWalkingCycle_4: -1601160085
+      ThaddeusWalkingCycle_5: -22127647
+      ThaddeusWalkingCycle_6: 588925483
+      ThaddeusWalkingCycle_7: 1534140642
+      ThaddeusWalkingCycle_8: -1205915885
+      ThaddeusWalkingCycle_9: -264869747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

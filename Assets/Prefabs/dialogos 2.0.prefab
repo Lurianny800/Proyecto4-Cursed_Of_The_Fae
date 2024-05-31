@@ -1,0 +1,776 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1688768242699378
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8332217122543211532}
+  - component: {fileID: 6946408052087011829}
+  m_Layer: 0
+  m_Name: dialogue fush and fash
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8332217122543211532
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1688768242699378}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -162.16766, y: -274.21106, z: -13.003481}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3381234973732674120}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6946408052087011829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1688768242699378}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ecd272cc74bc994bad5e911427310bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogPanel: {fileID: 3338293026055660515}
+  textComponent: {fileID: 1794304936712665766}
+  characterImage: {fileID: 3001996783553014865}
+  characterNamePanel: {fileID: 1927641462498033998}
+  characterNameText: {fileID: 3862501407969900691}
+  dialogueEntries:
+  - characterName: Lyra
+    dialogueLine: 'Un momento, amigos.  '
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Lyra
+    dialogueLine: 'Antes de continuar, debo contarles la historia completa de Persefone.  '
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Lyra
+    dialogueLine: Para honrar su sacrificio y el de la naturaleza.
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Apolo
+    dialogueLine: 'Vamos, Lyra. Date prisa para que podamos rescatarla. '
+    characterSprite: {fileID: 21300000, guid: cfd539302e7529842a613e31c77df3b5, type: 2}
+  - characterName: Lumi
+    dialogueLine: 'Tranquilo, Apolo. Merece que conozcamos su historia. '
+    characterSprite: {fileID: 21300000, guid: 0b8aad5b6597e5e43af5e033cc1eac95, type: 2}
+  - characterName: Lyra
+    dialogueLine: 'Persefone era la dulce hija de Demeter, diosa de las cosechas.  '
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Lyra
+    dialogueLine: 'Un dia de primavera, mientras recogia flores en los campos...  '
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Lyra
+    dialogueLine: ' ...Hades, el Dios del inframundo, la vio y quedo flechado por
+      ella.    '
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Lumi
+    dialogueLine: Puedo sentir la desesperacion en el aire, los ecos de su gritos
+    characterSprite: {fileID: 21300000, guid: 0b8aad5b6597e5e43af5e033cc1eac95, type: 2}
+  - characterName: Lyra
+    dialogueLine: 'Al no regresar Persefone, su madre Demeter enloquecida de pena... '
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Lyra
+    dialogueLine: 'hizo que los campos se marchitaran y el mundo se cubrio de nieve
+      eterna. '
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Apolo
+    dialogueLine: Puedes sentirlo realmente, Lumi?
+    characterSprite: {fileID: 21300000, guid: cfd539302e7529842a613e31c77df3b5, type: 2}
+  - characterName: Lumi
+    dialogueLine: 'Si, Apolo. Aunque mis ojos no pueden ver... '
+    characterSprite: {fileID: 21300000, guid: 0b8aad5b6597e5e43af5e033cc1eac95, type: 2}
+  - characterName: Lumi
+    dialogueLine: 'mis otros sentidos estan en sintonia con el mundo y sus historias. '
+    characterSprite: {fileID: 21300000, guid: 0b8aad5b6597e5e43af5e033cc1eac95, type: 2}
+  - characterName: Lumi
+    dialogueLine: 'Siento el dolor de Demeter y la angustia de Persefone. '
+    characterSprite: {fileID: 21300000, guid: 0b8aad5b6597e5e43af5e033cc1eac95, type: 2}
+  - characterName: Lyra
+    dialogueLine: 'Los gritos de Demeter eran tan desgarradores... '
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Lyra
+    dialogueLine: que Zeus mismo tuvo que intervenir para poner fin a su interminable
+      invierno.
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Lumi
+    dialogueLine: Recuerdo esa Era Oscura en mis visiones. La vida prendida de un
+      hilo.
+    characterSprite: {fileID: 21300000, guid: 0b8aad5b6597e5e43af5e033cc1eac95, type: 2}
+  - characterName: Lyra
+    dialogueLine: 'Asi es. Zeus obligo a Hades a devolver a Persefone, pero... '
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Lyra
+    dialogueLine: 'antes de salir del inframundo, la doncella probo semillas de una
+      granada.  '
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Apolo
+    dialogueLine: 'Y eso que importa? Era solo fruta! '
+    characterSprite: {fileID: 21300000, guid: cfd539302e7529842a613e31c77df3b5, type: 2}
+  - characterName: Lyra
+    dialogueLine: 'No era solo fruta, mi amigo minotauro. '
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Lyra
+    dialogueLine: Al ingerir fruta del inframundo, Persefone quedo en el reino por
+      siempre.
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Thadeus
+    dialogueLine: '"Comer del inframundo significa pertenecer a el."'
+    characterSprite: {fileID: 21300000, guid: d8633e11e02e17d4ebc65599189ef0d2, type: 2}
+  - characterName: Lyra
+    dialogueLine: 'Para poder volver al mundo superior con Demeter cada primavera... '
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Lyra
+    dialogueLine: 'se llego a un amargo acuerdo que aun seguimos. '
+    characterSprite: {fileID: 21300000, guid: 27795c74d5b10fa488115c5bc78e9de4, type: 2}
+  - characterName: Lumi
+    dialogueLine: 'Es un ciclo eterno, un sacrificio continuo por el equilibrio de
+      la vida. '
+    characterSprite: {fileID: 21300000, guid: 0b8aad5b6597e5e43af5e033cc1eac95, type: 2}
+  - characterName: Apolo
+    dialogueLine: 'Que horrible! Debemos terminar con este ciclo de sufrimiento y
+      liberarla.   '
+    characterSprite: {fileID: 21300000, guid: cfd539302e7529842a613e31c77df3b5, type: 2}
+  - characterName: Lumi
+    dialogueLine: 'Ten cuidado con lo que deseas, Apolo. '
+    characterSprite: {fileID: 21300000, guid: 0b8aad5b6597e5e43af5e033cc1eac95, type: 2}
+  - characterName: Lumi
+    dialogueLine: 'El orden natural es mas complejo de lo que parece. '
+    characterSprite: {fileID: 21300000, guid: 0b8aad5b6597e5e43af5e033cc1eac95, type: 2}
+  - characterName: Lumi
+    dialogueLine: 'Solo los dioses pueden juzgar que es aceptable y que no. '
+    characterSprite: {fileID: 21300000, guid: 0b8aad5b6597e5e43af5e033cc1eac95, type: 2}
+  - characterName: Thadeus
+    dialogueLine: 'Lumi tiene razon.  '
+    characterSprite: {fileID: 21300000, guid: d8633e11e02e17d4ebc65599189ef0d2, type: 2}
+  - characterName: Thadeus
+    dialogueLine: 'Encontraremos el equilibrio con bondad y sabiduria. '
+    characterSprite: {fileID: 21300000, guid: d8633e11e02e17d4ebc65599189ef0d2, type: 2}
+  - characterName: Thadeus
+    dialogueLine: 'No busquemos oprimir sino liberar.  '
+    characterSprite: {fileID: 21300000, guid: d8633e11e02e17d4ebc65599189ef0d2, type: 2}
+  - characterName: Apolo
+    dialogueLine: 'Tienes razon, Thadeus. Debemos ser prudentes. '
+    characterSprite: {fileID: 21300000, guid: cfd539302e7529842a613e31c77df3b5, type: 2}
+  - characterName: Lumi
+    dialogueLine: Ahora, continuemos nuestro camino.
+    characterSprite: {fileID: 21300000, guid: 0b8aad5b6597e5e43af5e033cc1eac95, type: 2}
+  - characterName: Lumi
+    dialogueLine: 'Y tengan presentes las palabras de Fauna sobre los peligros que
+      nos acechan. '
+    characterSprite: {fileID: 21300000, guid: 0b8aad5b6597e5e43af5e033cc1eac95, type: 2}
+  - characterName: Lumi
+    dialogueLine: Recuperar a Persefone no sera tarea facil.
+    characterSprite: {fileID: 21300000, guid: 0b8aad5b6597e5e43af5e033cc1eac95, type: 2}
+  textSpeed: 0.05
+--- !u!1 &483765468353171042
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 231728611224055342}
+  - component: {fileID: 520615594866490939}
+  - component: {fileID: 3862501407969900691}
+  m_Layer: 5
+  m_Name: speakerText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &231728611224055342
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 483765468353171042}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.92045, y: 0.92045, z: 0.92045}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6917337461024762198}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: -127, y: 72}
+  m_SizeDelta: {x: 832.3203, y: 123.1114}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &520615594866490939
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 483765468353171042}
+  m_CullTransparentMesh: 1
+--- !u!114 &3862501407969900691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 483765468353171042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Lumi
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 6866279c068266f44a2c83a9730042b4, type: 2}
+  m_sharedMaterial: {fileID: 4054197904966527495, guid: 6866279c068266f44a2c83a9730042b4, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 80
+  m_fontSizeBase: 80
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 1
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: -30.562225, z: 320.90372, w: 65.49054}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!1 &1927641462498033998
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6917337461024762198}
+  - component: {fileID: 8351910472631027088}
+  - component: {fileID: 3485099523658725449}
+  m_Layer: 5
+  m_Name: NamePanel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &6917337461024762198
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1927641462498033998}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.8055401, y: 0.8055401, z: 0.8055401}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 231728611224055342}
+  - {fileID: 1437836653791867740}
+  m_Father: {fileID: 3070836257426887699}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 360, y: -13}
+  m_SizeDelta: {x: 792.5498, y: 244.91052}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &8351910472631027088
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1927641462498033998}
+  m_CullTransparentMesh: 1
+--- !u!114 &3485099523658725449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1927641462498033998}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.9490196}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: a30151c3f3e5b4a4893f01daff04c754, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!1 &2685989144901817360
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1437836653791867740}
+  - component: {fileID: 251185993777524031}
+  - component: {fileID: 3001996783553014865}
+  m_Layer: 5
+  m_Name: portraitImage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1437836653791867740
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2685989144901817360}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.2414032, y: 1.2414032, z: 1.2414032}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6917337461024762198}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 163, y: -263}
+  m_SizeDelta: {x: 194.0013, y: 275.5439}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &251185993777524031
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2685989144901817360}
+  m_CullTransparentMesh: 1
+--- !u!114 &3001996783553014865
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2685989144901817360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -235993724, guid: 21dde0f5e17d4934aa1933df9f7618ab, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!1 &3338293026055660515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3070836257426887699}
+  - component: {fileID: 7984043620676344414}
+  - component: {fileID: 7894904263417066868}
+  m_Layer: 5
+  m_Name: DialoguePanel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &3070836257426887699
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3338293026055660515}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.61976415, y: 0.6463329, z: 0.70831}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7224570780189890161}
+  - {fileID: 6917337461024762198}
+  m_Father: {fileID: 3381234973732674120}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -622, y: -396}
+  m_SizeDelta: {x: 688, y: 224}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &7984043620676344414
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3338293026055660515}
+  m_CullTransparentMesh: 1
+--- !u!114 &7894904263417066868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3338293026055660515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: c6006ceee1f41bd46a87f43c8fe4a3cc, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!1 &4202395289074627774
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7224570780189890161}
+  - component: {fileID: 7657375171655781207}
+  - component: {fileID: 1794304936712665766}
+  m_Layer: 5
+  m_Name: dialogueText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &7224570780189890161
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4202395289074627774}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3070836257426887699}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 98, y: -53}
+  m_SizeDelta: {x: -440, y: -40}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &7657375171655781207
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4202395289074627774}
+  m_CullTransparentMesh: 1
+--- !u!114 &1794304936712665766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4202395289074627774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 'hello gus mornin  im Lumi '
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 491ba7fda65dd4f4bb9b87b7897b1f1c, type: 2}
+  m_sharedMaterial: {fileID: -5551801863261205220, guid: 491ba7fda65dd4f4bb9b87b7897b1f1c, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 100
+  m_fontSizeBase: 100
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 4096
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 23.86802, z: 0, w: 108.732155}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!1 &4979090658810328682
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3381234973732674120}
+  - component: {fileID: 5234334973485170996}
+  - component: {fileID: 3684119967159547745}
+  - component: {fileID: 2919621137701671601}
+  m_Layer: 5
+  m_Name: dialogos 2.0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &3381234973732674120
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4979090658810328682}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8332217122543211532}
+  - {fileID: 3070836257426887699}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!223 &5234334973485170996
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4979090658810328682}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!114 &3684119967159547745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4979090658810328682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!114 &2919621137701671601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4979090658810328682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295

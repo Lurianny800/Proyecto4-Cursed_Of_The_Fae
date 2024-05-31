@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 8398fb09a357ab24da9d6835e9f8ec5e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LurmiWalkCycle_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1140
+        width: 252
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096ef8341a2572749b2eb25c29301b46
+      internalID: 487173030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1140
+        width: 252
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce42650a9d7a1df4fb3556bb1f6e340c
+      internalID: -1895785801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_2
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1140
+        width: 252
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c8d4e3b25b15d43b12738a9d71cb08
+      internalID: -149645012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_3
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1140
+        width: 252
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41820dcdfe2a77b46bb5dbdb592bb285
+      internalID: -262636528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_4
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1140
+        width: 252
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c5b3ccb1626ba4cb62b6cac88c8e09
+      internalID: -1583951911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 744
+        width: 264
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5ae395ceb1d61468fd5e216ebb3df4
+      internalID: 2078802805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 744
+        width: 252
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55741de4b4a545840a60ca6553d0f4ce
+      internalID: -1953871361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_7
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 744
+        width: 264
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f952bb9b3d52ded4ab06e370dcc99bd8
+      internalID: -1652658049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_8
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 744
+        width: 252
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c8c5d7052aa314bbdd37032da0a31c
+      internalID: -1379585286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_9
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 744
+        width: 263
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612a4f6061b6601499b379cb2be4d099
+      internalID: 765247247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 376
+        width: 233
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664915a380f8eec45a3cee4ecf5d2c33
+      internalID: -1671405133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_11
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 376
+        width: 221
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a53812288ce3a34ab035cf2af2b845d
+      internalID: 1739968927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_12
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 376
+        width: 233
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93474d7e84daa54b87b00b7fe58da0b
+      internalID: 432804209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_13
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 376
+        width: 221
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cdebfe331f13d409628d3f78f7303f
+      internalID: 323602993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_14
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 376
+        width: 233
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c54dc52dc73fa64ab834265dd0f2a2a
+      internalID: 431924467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 233
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baafbfac3f803b542a01bf559b71e5d9
+      internalID: -411123825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_16
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 221
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76daf3a483854814ea7b3ba7769b018f
+      internalID: 1766508818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_17
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 0
+        width: 233
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672903e243dbf554c81e6f99473dc889
+      internalID: 1545807106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_18
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 0
+        width: 221
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11288d94b79e6f74cbdfe8b2780830e4
+      internalID: -508676691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LurmiWalkCycle_19
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 0
+        width: 233
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303c36faf81644846bf33a4ddafdd43c
+      internalID: 887244299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LurmiWalkCycle_0: 487173030
+      LurmiWalkCycle_1: -1895785801
+      LurmiWalkCycle_10: -1671405133
+      LurmiWalkCycle_11: 1739968927
+      LurmiWalkCycle_12: 432804209
+      LurmiWalkCycle_13: 323602993
+      LurmiWalkCycle_14: 431924467
+      LurmiWalkCycle_15: -411123825
+      LurmiWalkCycle_16: 1766508818
+      LurmiWalkCycle_17: 1545807106
+      LurmiWalkCycle_18: -508676691
+      LurmiWalkCycle_19: 887244299
+      LurmiWalkCycle_2: -149645012
+      LurmiWalkCycle_3: -262636528
+      LurmiWalkCycle_4: -1583951911
+      LurmiWalkCycle_5: 2078802805
+      LurmiWalkCycle_6: -1953871361
+      LurmiWalkCycle_7: -1652658049
+      LurmiWalkCycle_8: -1379585286
+      LurmiWalkCycle_9: 765247247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
